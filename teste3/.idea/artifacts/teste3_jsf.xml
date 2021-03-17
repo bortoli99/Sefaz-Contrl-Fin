@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="teste3-jsf">
+    <output-path>$PROJECT_DIR$/out/artifacts/teste3_jsf.war</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="teste3/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="teste3" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.sun.faces:jsf-api:2.2.13" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
